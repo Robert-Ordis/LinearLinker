@@ -1,0 +1,12 @@
+.dep*
+.obj*
+.lint*
+install*
+memo/*
+*.a
+*.so
+core.*
+testProgram
+*.exe
+makefile.old
+old/*
